@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yash Jain
-- 👀 I’m interested in IoT
+- 👀 I’m interested in IoT, Machine Learning
 - 🌱 I’m currently persuing Bachelor degree in Electronics and Communications Engineering..
 - 📫 You can reach me by yashjain2309@gmail.com
 
